@@ -3,6 +3,8 @@
 A VSCode(ium) extension to get instant feedback by plotting PyTorch tensors when selecting them during a debug session. 
 The addon is using [torchshow](https://github.com/xwying/torchshow) to plot the tensor.
 
+[demo.webm](https://github.com/HugoTini/DebugTShow/assets/65409496/87ebc784-9dc3-440c-90d7-bffef6a1131e)
+
 ## Install
 
 1) Make sure [torchshow](https://github.com/xwying/torchshow) is installed in your python project : `pip install torchshow`.
