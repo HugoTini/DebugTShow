@@ -9,7 +9,7 @@ The addon is using [torchshow](https://github.com/xwying/torchshow) to plot the 
 
 1) Make sure [torchshow](https://github.com/xwying/torchshow) is installed in your python project : `pip install torchshow`.
 
-2) Download the latest `.vsix` in the release page.
+2) Download the latest `.vsix` from the [release page](https://github.com/HugoTini/DebugTShow/releases).
 
 3) In VSCode / VSCodium, in the extensions panel menu, click ___Install from VSIX___ and select the downloaded extension.
 
@@ -29,7 +29,7 @@ Notes :
 
 - To quickly disable / enable the extension, use the commands `DebugTShow: Disable` & `DebugTShow: Enable` (or completely disable / uninstall it from the extension panel).
 
-- The displayed image is saved in  `_torchshow/`. If using git, it is recommended to add this folder to your ``.gitignore``.
+- The displayed image is saved in  `_torchshow/`. If using git, it is recommended to add this folder to your `.gitignore`.
 
 ## License
 
